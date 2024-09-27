@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eneyenat.github.io/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/app/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/assets/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/css/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/data/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/includes/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/item/sitemap.eneyenat.gz
+Sitemap: https://eneyenat.github.io/src/sitemap.eneyenat.gz
